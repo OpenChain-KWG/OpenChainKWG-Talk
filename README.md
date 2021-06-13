@@ -1,7 +1,7 @@
 # OpenSourceGovernanceTalk
 Let's talk freely about open source governance @Clubhouse
 
-주로 기업의 오픈소스 담당자들이 모여서 오픈소스 에 대해 자유롭게 이야기하기 위한 공간입니다. 
+주로 기업의 오픈소스 담당자들이 모여서 오픈소스 거버넌스에 대해 자유롭게 이야기하기 위한 공간입니다. 
 
 ## Moderator
 * 장학성
