@@ -5,7 +5,7 @@ Let's talk freely about open source governance @Clubhouse
 
 ## Moderator
 * 장학성
-* ...
+* Robin Hwang
 
 ## When
 * 매월 4째주 화요일 밤 10시
